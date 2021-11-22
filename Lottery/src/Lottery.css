@@ -1,0 +1,10 @@
+.Lottery {
+    margin: 1em auto auto;
+    padding: 1em 0 2em 0;
+}
+
+.Lottery button {
+    font-size: 1rem;
+    padding: 5px;
+    margin-top: 1rem;
+}
